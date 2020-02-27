@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Resort_website/static/css/main.0f654aff.chunk.css",
-    "main.js": "/Resort_website/static/js/main.525388b3.chunk.js",
-    "main.js.map": "/Resort_website/static/js/main.525388b3.chunk.js.map",
+    "main.js": "/Resort_website/static/js/main.d84054d4.chunk.js",
+    "main.js.map": "/Resort_website/static/js/main.d84054d4.chunk.js.map",
     "runtime-main.js": "/Resort_website/static/js/runtime-main.0c9cfda9.js",
     "runtime-main.js.map": "/Resort_website/static/js/runtime-main.0c9cfda9.js.map",
     "static/js/2.39adf775.chunk.js": "/Resort_website/static/js/2.39adf775.chunk.js",
     "static/js/2.39adf775.chunk.js.map": "/Resort_website/static/js/2.39adf775.chunk.js.map",
     "index.html": "/Resort_website/index.html",
-    "precache-manifest.66a6126cd762218320298177c6c89e0d.js": "/Resort_website/precache-manifest.66a6126cd762218320298177c6c89e0d.js",
+    "precache-manifest.5fbf65ff45307c6d5b6be95491949d5f.js": "/Resort_website/precache-manifest.5fbf65ff45307c6d5b6be95491949d5f.js",
     "service-worker.js": "/Resort_website/service-worker.js",
     "static/css/main.0f654aff.chunk.css.map": "/Resort_website/static/css/main.0f654aff.chunk.css.map",
     "static/js/2.39adf775.chunk.js.LICENSE.txt": "/Resort_website/static/js/2.39adf775.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.0c9cfda9.js",
     "static/js/2.39adf775.chunk.js",
     "static/css/main.0f654aff.chunk.css",
-    "static/js/main.525388b3.chunk.js"
+    "static/js/main.d84054d4.chunk.js"
   ]
 }
