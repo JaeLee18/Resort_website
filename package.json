@@ -1,6 +1,5 @@
 {
   "name": "resort",
-  "homepage":"https://JaeLee18.github.io/Resort_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build&&gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
     
   },
   "eslintConfig": {
@@ -40,5 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "homepage":"https://JaeLee18.github.io/Resort_website"
 }
